@@ -1,0 +1,28 @@
+img {
+    border-radius: 50%;
+    width: 300px;
+    text-align: center;
+}
+
+body {
+    background: linear-gradient(blue 0%, green 100%);
+    background-repeat: no-repeat;
+}
+.menu{
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+    display: block;
+    padding: 8px;
+    text-align: right;
+}
+h2{
+    font-family: 'Ballet', cursive;
+}
+h1{
+    font-family: 'Ballet', cursive;
+}
